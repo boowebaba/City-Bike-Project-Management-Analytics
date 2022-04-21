@@ -1,5 +1,7 @@
 # Tableau- Citi Bike Analytics
 
+![City bike 1](https://user-images.githubusercontent.com/47423831/164400604-0379e29f-7ecc-4564-861e-3fdc9fce3f21.png)
+
 ### Before You Begin
 
 * This assignment will be saved to your tableau public account rather than github. 
@@ -81,4 +83,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Considerations
 
 Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
+
+## Dashboard Images 
+
+![City Bike dashboard2](https://user-images.githubusercontent.com/47423831/164400116-cab287da-3101-4f01-aeec-4ab389ce0dbe.png)
+
+
+![City Bike dashboard1](https://user-images.githubusercontent.com/47423831/164400090-0f4ae1b2-db80-41c8-9501-5f273688f953.png)
 
