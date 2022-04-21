@@ -28,9 +28,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
 
-**Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
+**Design 2-5 visualizations for each discovered phenomena (4-10 total)** 
 
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**The following are some questions you may wish to tackle.**
 
 * How many trips have been recorded total during the chosen period?
 
@@ -77,7 +77,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **Finally, create your final presentation**
 
-* Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+* Created a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
 ## Considerations
