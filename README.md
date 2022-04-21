@@ -2,17 +2,6 @@
 
 ![City bike 1](https://user-images.githubusercontent.com/47423831/164400604-0379e29f-7ecc-4564-861e-3fdc9fce3f21.png)
 
-### Before You Begin
-
-* This assignment will be saved to your tableau public account rather than github. 
-
-* If you haven't already, be sure to create a tableau public account [here](https://public.tableau.com/s/).
-
-* The free tier of tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your tableau public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
 
 ## Background
 
@@ -80,9 +69,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Created a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
-## Considerations
-
-Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
 
 ## Dashboard Images 
 
